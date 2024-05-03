@@ -22,7 +22,8 @@ export default function Home() {
           <div className='px-8  text-white flex flex-grow-0 flex-col gap-8'>
 
             <h1 className='text-8xl'>
-              Nice to meet you! I'm
+              Nice to meet you!      
+              I'm
               <span className="underline underline-offset-8 decoration-4 ml-10 decoration-emerald-500">A.Ambrish</span>
             </h1>
 
