@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ambrish-12.github.io/static/css/main.1733cc4e.css",
-    "main.js": "/Ambrish-12.github.io/static/js/main.5d4909fd.js",
-    "static/js/453.1407b060.chunk.js": "/Ambrish-12.github.io/static/js/453.1407b060.chunk.js",
-    "index.html": "/Ambrish-12.github.io/index.html",
-    "main.1733cc4e.css.map": "/Ambrish-12.github.io/static/css/main.1733cc4e.css.map",
-    "main.5d4909fd.js.map": "/Ambrish-12.github.io/static/js/main.5d4909fd.js.map",
-    "453.1407b060.chunk.js.map": "/Ambrish-12.github.io/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/static/css/main.1733cc4e.css",
+    "main.js": "/static/js/main.45f3e36b.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "index.html": "/index.html",
+    "main.1733cc4e.css.map": "/static/css/main.1733cc4e.css.map",
+    "main.45f3e36b.js.map": "/static/js/main.45f3e36b.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1733cc4e.css",
-    "static/js/main.5d4909fd.js"
+    "static/js/main.45f3e36b.js"
   ]
 }
