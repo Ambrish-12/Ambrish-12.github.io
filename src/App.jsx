@@ -70,7 +70,7 @@ function App() {
           </div>
         </nav>
 
-        <img className='absolute bottom-0 right-0  h-5/6 object-cover lg:left-0 mx-auto ' src='../public/ambrish.png' />
+        <img className='absolute bottom-0 right-0  h-5/6 object-cover lg:left-0 mx-auto ' src='./ambrish.png' />
 
         <div className='hidden -bottom-[250px] mx-auto left-0 right-0 -z-10 lg:block absolute w-big h-big rounded-full bg-indigo-900'>
 
@@ -93,10 +93,10 @@ function App() {
         <div className='container py-40  mx-auto flex flex-col-reverse md:flex-row items-center gap-20'>
 
            <div className='relative'>
-              <img src='../public/dotted.png' className='h-1/4 absolute top-0 left-0 -z-10 
+              <img src='./dotted.png' className='h-1/4 absolute top-0 left-0 -z-10 
               ' alt='image'/>
               <div className='h-full overflow-hidden rounded-full '>
-                 <img src='../public/ambrish-pink.jpg'/>
+                 <img src='./ambrish-pink.jpg'/>
               </div>
            </div>
            
@@ -146,42 +146,42 @@ function App() {
      <div className='flex sm:p-0 flex-wrap md:p-5'>
 
        <div className='w-full md:w-4/12 shadow-xl  rounded-lg p-5 my-3 flex flex-col gap-3' >
-          <img className='w-[10%]' src='../public/ux.png'/>
+          <img className='w-[10%]' src='./ux.png'/>
           <h1 className='font-medium text-lg'>Ux/Ui Design</h1>
           <p className='text-gray-400'> I specializing in creating interactive websites forr individuals and small buisnesses</p>
           <a className='text-indigo-600 font-semibold text-sm' href='#'>Read More</a>
        </div>
        
        <div className='w-full md:w-4/12 shadow-xl  rounded-lg p-5 md:my-3 my-3 flex flex-col gap-3' >
-          <img className='w-[10%]' src='../public/ux.png'/>
+          <img className='w-[10%]' src='./ux.png'/>
           <h1 className='font-medium text-lg'>Ux/Ui Design</h1>
           <p className='text-gray-400'> I specializing in creating interactive websites forr individuals and small buisnesses</p>
           <a className='text-indigo-600 font-semibold text-sm' href='#'>Read More</a>
        </div>
 
        <div className='w-full md:w-4/12  md:my-3  shadow-xl rounded-lg p-5 my-3 flex flex-col gap-3' >
-          <img className='w-[10%]' src='../public/ux.png'/>
+          <img className='w-[10%]' src='./ux.png'/>
           <h1 className='font-medium text-lg'>Ux/Ui Design</h1>
           <p className='text-gray-400'> I specializing in creating interactive websites forr individuals and small buisnesses</p>
           <a className='text-indigo-600 font-semibold text-sm' href='#'>Read More</a>
        </div>
 
        <div className='w-full md:w-4/12 md:my-3 shadow-xl rounded-lg p-5 my-3 flex flex-col gap-3' >
-          <img className='w-[10%]' src='../public/ux.png'/>
+          <img className='w-[10%]' src='./ux.png'/>
           <h1 className='font-medium text-lg'>Ux/Ui Design</h1>
           <p className='text-gray-400'> I specializing in creating interactive websites forr individuals and small buisnesses</p>
           <a className='text-indigo-600 font-semibold text-sm' href='#'>Read More</a>
        </div>
 
        <div className='w-full md:w-4/12 md:my-3   shadow-xl rounded-lg p-5 my-3 flex flex-col gap-3' >
-          <img className='w-[10%]' src='../public/ux.png'/>
+          <img className='w-[10%]' src='./ux.png'/>
           <h1 className='font-medium text-lg'>Ux/Ui Design</h1>
           <p className='text-gray-400'> I specializing in creating interactive websites forr individuals and small buisnesses</p>
           <a className='text-indigo-600 font-semibold text-sm' href='#'>Read More</a>
        </div>
 
        <div className='w-full md:w-4/12 md:my-3   shadow-xl rounded-lg p-5  my-3 flex flex-col gap-3' >
-          <img className='w-[10%]' src='../public/ux.png'/>
+          <img className='w-[10%]' src='./ux.png'/>
           <h1 className='font-medium text-lg'>Ux/Ui Design</h1>
           <p className='text-gray-400'> I specializing in creating interactive websites forr individuals and small buisnesses</p>
           <a className='text-indigo-600 font-semibold text-sm' href='#'>Read More</a>
