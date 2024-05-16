@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#text{
+    position: relative;
+    color:rgb(239 68 68)
+}
+
+#text::after{
+    content:'|';
+    color:rgb(239 68 68);
+    position: absolute;
+    right:0;
+    background-color: #d1d9fd;
+    height:80px;
+    width:100%;
+    animation: move infinite 4s alternate ;
+}
+
+@keyframes move{
+    to{
+        width:0%
+    }
+}
+
+
